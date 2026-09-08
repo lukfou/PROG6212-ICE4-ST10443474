@@ -1,0 +1,6 @@
+@ICE4RestApi_HostAddress = http://localhost:5031
+
+GET {{ICE4RestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
